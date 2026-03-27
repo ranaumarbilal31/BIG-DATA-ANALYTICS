@@ -57,5 +57,5 @@ This portfolio is broken down into five progressive tasks. Click on any folder b
 <br>
 
 <div align="center">
-  <i>Portfolio compiled for CS-506(Big Data Analytics)</i>
+  <i>Portfolio compiled for CS-506[Big Data Analytics]</i>
 </div>
