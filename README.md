@@ -1,13 +1,14 @@
 <div align="center">
   
-  # 📊 Big Data Analytics
+  # 📊 Big Data Analytics & Python Portfolio
   
-  *A comprehensive data science workflow from environment setup to advanced statistical visualizations.*
+  *A comprehensive data science workflow from environment setup to interactive HTML dashboards. This repository is actively being updated with new weekly tasks.*
 
   ![Python](https://img.shields.io/badge/Python-3.x-66CCFF?style=for-the-badge&logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-66CCFF?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-66CCFF?style=for-the-badge&logo=numpy&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-66CCFF?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Plotly](https://img.shields.io/badge/Plotly-Interactive_Charts-66CCFF?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
@@ -17,7 +18,7 @@
 * **Course:** CS-506 (Big Data Analytics)
 * **Instructor:** Nasiha Amin
 * **Program:** BS-CS
-* **Team:** CS-506 Group 1 (PHALANX)
+* **Team:** CS-506 Group 1 (PHALANX LIMITED)
 
 ### 👥 Group Members
 | Name | Student ID |
@@ -31,7 +32,7 @@
 
 ## 🚀 Repository Navigation
 
-This portfolio is broken down into five progressive tasks. Click on any folder below to view the source code, methodology, and visual deliverables.
+This portfolio is broken down into progressive tasks. Click on any folder below to view the source code, methodology, and visual deliverables.
 
 | Task | Module Focus | Description |
 | :--- | :--- | :--- |
@@ -40,6 +41,7 @@ This portfolio is broken down into five progressive tasks. Click on any folder b
 | 📁 **[Task 3](./Task_3_NumPy_Operations)** | **Numerical Computing** | High-performance array manipulation, linear algebra, and speed benchmarking. |
 | 📁 **[Task 4](./Task_4_Pandas_Data_Cleaning)** | **Data Wrangling** | Boolean indexing, handling missing data, and feature engineering using the Titanic dataset. |
 | 📁 **[Task 5](./Task_5_Data_Visualization)** | **Data Visualization** | Multi-panel charting (heatmaps, violin plots, histograms) for a simulated weather time-series. |
+| 📁 **[Task 6](./Task_6_Interactive_Dashboards)** | **Interactive Dashboards** | Web-based data visualization using Plotly, featuring 3D scatter plots, geographic choropleth maps, time-series animations, and interactive HTML exports. |
 
 ---
 
@@ -51,11 +53,12 @@ This portfolio is broken down into five progressive tasks. Click on any folder b
   * **File I/O:** Reading/writing CSV and JSON formats safely
   * **Mathematics:** Statistical functions, matrix multiplication, dot products
   * **Data Cleaning:** Null value handling, median imputation, column restructuring
-  * **Visual Storytelling:** Correlation matrices, distribution density, time-series analysis
+  * **Static Visualizations:** Correlation matrices, distribution density, time-series analysis (Matplotlib/Seaborn)
+  * **Interactive Visualizations:** Hover-tooltips, animated time-series, 3D modeling, interactive HTML dashboard generation (Plotly)
 </details>
 
 <br>
 
 <div align="center">
-  <i>Portfolio compiled for CS-506[Big Data Analytics]</i>
+  <i>Portfolio compiled for CS-506.</i>
 </div>
