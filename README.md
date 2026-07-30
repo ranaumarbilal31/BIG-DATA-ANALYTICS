@@ -62,3 +62,4 @@ This portfolio is broken down into progressive tasks. Click on any folder below 
 <div align="center">
   <i>Portfolio compiled for CS-506.</i>
 </div>
+Result= Got 52/60 (A Grade)
