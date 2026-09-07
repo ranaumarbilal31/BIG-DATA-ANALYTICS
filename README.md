@@ -18,7 +18,7 @@
 * **Course:** CS-506 (Big Data Analytics)
 * **Instructor:** Nasiha Amin
 * **Program:** BS-CS
-* **Team:** CS-506 Group 1 (PHALANX LIMITED)
+* **Team:** CS-506 Group 1 (PHALANX)
 
 ### 👥 Group Members
 | Name | Student ID |
